@@ -1,13 +1,15 @@
 body {
     display: flex;
-    flex-direction: column;
+    flex-direction: ;
     font-family: Roboto, sans-serif;
     padding: 0;
     margin: 0;
+    justify-content: center;
+    align-items: center;
 }
 .masterblock {
-    margin: 0 auto;
-    flex: 1;
+    margin: 0 ;
+    flex: auto;
     display: flex;
     flex-direction: column;
     padding: 0;
